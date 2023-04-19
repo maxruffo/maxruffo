@@ -2,4 +2,4 @@
 
 
 
-(My Profile Picture was made with Dale 2)
+(My Profile Picture was made with Dale 2, it show a Greek Philosopher smoking a Cigarette)
