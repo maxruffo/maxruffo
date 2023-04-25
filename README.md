@@ -8,12 +8,7 @@
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxruffo)
 
 
-
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MaxRuffo) 
-
-### ✍️ Random Dev Quote
+### Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
