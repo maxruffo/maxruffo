@@ -1,7 +1,7 @@
 ![](https://github.com/maxruffo/maxruffo/blob/main/giphy%20(1).gif)
 
 
-(My Profile Picture was made with Dale 2, it shows a Greek Philosopher smoking a Cigarette)
+(My Profile Picture was made with Dale 2)
 
 ![](https://komarev.com/ghpvc/?username=maxruffo&style=for-the-badge&color=blueviolet)
 
