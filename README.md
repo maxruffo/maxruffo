@@ -7,7 +7,12 @@
 <h1 align="center">Hi 👋, I'm Max Ruffo</h1>
 <h3 align="center">A passionate Developer from Berlin</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxruffo&label=Profile%20views&color=0e75b6&style=flat" alt="maxruffo" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=maxruffo&label=Profile%20views&color=0e75b6&style=flat" alt="Profilaufrufe" />
+  <img src="https://img.shields.io/github/followers/maxruffo?label=Followers&style=social" alt="Follower" />
+  <img src="https://img.shields.io/github/stars/maxruffo?label=Stars&style=social" alt="Sterne" />
+  <img src="https://img.shields.io/github/last-commit/maxruffo/maxruffo?label=Contributions&style=social" alt="Beiträge" />
+</p>
 
 
 <h3 align="left">Languages:</h3>
