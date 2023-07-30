@@ -52,7 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxruffo" alt="streak-stats" />
 </div>
 
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/maxruffo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maxruffo" /></a></p><br><br>
 
